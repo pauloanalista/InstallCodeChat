@@ -1,6 +1,7 @@
 # InstallCodeChat
 
-  
+https://www.youtube.com/watch?v=qzPRDt1zukM
+
 <details>
 <summary>Manual de Instalação Chatwoot</summary>
 
